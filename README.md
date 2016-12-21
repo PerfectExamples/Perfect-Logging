@@ -39,9 +39,11 @@
     </a>
 </p>
 
-Perfect Empty Starter Project
+Perfect Logging Demonstration
 
-This repository holds a blank Perfect project which can be cloned to serve as a starter for new work. It builds with Swift Package Manager and produces a stand-alone HTTP executable.
+This project is a simple demonstration of running an HTTP server with a custom logging function. This is not HTTP Request logging, this is application level logging.
+
+[See the documentation for more detailed description of the Perfect Logging functionality.](https://www.perfect.org/docs/logFiles.html)
 
 ## Compatibility with Swift
 

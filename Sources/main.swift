@@ -1,8 +1,8 @@
 //
 //  main.swift
-//  PerfectTemplate
+//  Perfect-Logging
 //
-//  Created by Kyle Jessup on 2015-11-05.
+//  Created by Jonathan Guthrie on 2016-12-21.
 //	Copyright (C) 2015 PerfectlySoft, Inc.
 //
 //===----------------------------------------------------------------------===//

@@ -88,7 +88,7 @@ When viewing the generated log file (customLogFile.log) you will see more detail
 To run the project in Xcode, navigate to the directory in terminal and execute:
 
 ```
-swift generate xcode-proj
+swift package generate-xcodeproj
 ```
 
 Then open the generated project, select the executable scheme, edit the scheme and change the current working directory to the project's directory (so you can see the generated log file more easily). Then Run the project.

@@ -67,3 +67,4 @@ Packages/
 Tests/
 webroot/
 customLogFile.log
+Package.pins
